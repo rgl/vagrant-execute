@@ -1,8 +1,11 @@
 # Vagrant Execute Command
 
+[![Latest version released](https://img.shields.io/gem/v/vagrant-execute.svg)](https://rubygems.org/gems/vagrant-execute)
+[![Package downloads count](https://img.shields.io/gem/dt/vagrant-execute.svg)](https://rubygems.org/gems/vagrant-execute)
+
 This is a Vagrant plugin to execute commands inside a VM from the host machine.
 
-**NB** This was only tested with Vagrant 1.9.2 and Windows Server 2016.
+**NB** This was only tested with Vagrant 2.0.3 and Windows Server 2016.
 
 # Installation
 
